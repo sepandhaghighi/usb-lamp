@@ -23,12 +23,11 @@ Whether you're just getting started with electronics or looking to add a small l
 
 ## 🔌 Circuit
 
-
-![Circuit Diagram](images/diagram.png)
+<img src="images/diagram.png" alt="Circuit Diagram" width="500">
 
 *Circuit Diagram*
 
-![Circuit Schematic](images/schematic.png)
+<img src="images/schematic.png" alt="Circuit Schematic" width="500">
 
 *Circuit Schematic*
 
