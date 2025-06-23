@@ -69,11 +69,15 @@ Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's
 
 ---
 
-## 🖼️ Image
+## 📷 Prototype Snapshot
 
-![DIY USB Lamp Example](/images/usb_lamp_example.jpg)
+<img src="images/prototype1.jpg" alt="Prototype Snapshot 1" width="500">
 
-*Example of a USB-powered lamp with a blue LED*
+*Prototype Snapshot 1*
+
+<img src="images/prototype2.jpg" alt="Prototype Snapshot 2" width="500">
+
+*Prototype Snapshot 2*
 
 ---
 
