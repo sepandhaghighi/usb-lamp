@@ -23,9 +23,14 @@ Whether you're just getting started with electronics or looking to add a small l
 
 ## 🔌 Circuit
 
-Basic circuit diagram:
 
-[TODO]()
+![Circuit Diagram](images/diagram.png)
+
+*Circuit Diagram*
+
+![Circuit Schematic](images/schematic.png)
+
+*Circuit Schematic*
 
 
 ### Resistor Value Calculation
