@@ -62,6 +62,11 @@ Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's
 - This circuit typically draws **15–20mA**
 - You can safely power one LED with plenty of margin
 
+### ✳️ Parallel LEDs
+
+> ℹ️ You can connect multiple LEDs in parallel, but each **must have its own resistor** to ensure proper current limiting.  
+> ⚠️ Never connect LEDs directly in parallel without individual resistors, and keep total current below USB limits (<**500 mA**).
+
 ---
 
 ## 🖼️ Image
