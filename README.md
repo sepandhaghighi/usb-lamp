@@ -81,3 +81,8 @@ Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's
 
 Feel free to fork the project and open pull requests. Bug reports, enhancements, and photos of your builds are welcome!
 
+
+## References
+
+1. [Circuits on Tinkercad](https://www.tinkercad.com/circuits)
+
