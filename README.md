@@ -45,13 +45,13 @@ Where:
 Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's law, here’s a reference table for choosing resistors:
 
 
-| LED Color | Vf (V) | Suggested Resistor (Ω) @15mA | Acceptable Range (Ω) @5–20mA |
-|-----------|--------|-------------------------------|-------------------------------|
-| Red       | 2.0    | 200 Ω                         | 150 Ω – 600 Ω                 |
-| Green     | 2.2    | 180 Ω                         | 140 Ω – 560 Ω                 |
-| Yellow    | 2.2    | 180 Ω                         | 140 Ω – 560 Ω                 |
-| Blue      | 3.2    | 120 Ω                         | 90 Ω – 360 Ω                  |
-| White     | 3.2    | 120 Ω                         | 90 Ω – 360 Ω                  |
+| LED Color | Approximate Vf (V) | Suggested Resistor (Ω) @15mA  | Acceptable Range (Ω) @5–20mA |
+|-----------|--------------------|-------------------------------|------------------------------|
+| Red       | 2.0                | 200                           | 150  – 600                   |
+| Green     | 2.2                | 180                           | 140  – 560                   |
+| Yellow    | 2.2                | 180                           | 140  – 560                   |
+| Blue      | 3.2                | 120                           | 90  – 360                    |
+| White     | 3.2                | 120                           | 90  – 360                    |
 
 > ℹ️ Use the **next higher standard resistor** if the calculated value is not available (e.g., use 220Ω instead of 207Ω).
 
