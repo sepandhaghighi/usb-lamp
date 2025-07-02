@@ -36,7 +36,7 @@ Whether you're just getting started with electronics or looking to add a small l
 
 To calculate the appropriate resistor value:
 
-$$R = \frac{5 - V_f}{I_f}$$
+$$R = \frac{V_{USB} - V_f}{I_f} = \frac{5 - V_f}{I_f}$$
 
 Where:
 - $$V_f$$ = Forward voltage of the LED (depends on color)
