@@ -53,7 +53,7 @@ Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's
 | Blue      | 3.2                | 120                           | 90  – 360                    |
 | White     | 3.2                | 120                           | 90  – 360                    |
 
-> ℹ️ Use the **next higher standard resistor** if the calculated value is not available (e.g., use 220Ω instead of 207Ω).
+> ℹ️ Use the **next higher standard resistor** if the calculated value is not available (e.g., use 200Ω instead of 197Ω).
 
 
 ### ⚠️ USB Current Limits
