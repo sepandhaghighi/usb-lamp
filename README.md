@@ -41,6 +41,7 @@ $$R = \frac{V_{USB} - V_f}{I_f} = \frac{5 - V_f}{I_f}$$
 Where:
 - $$V_f$$ = Forward voltage of the LED (depends on color)
 - $$I_f$$ = Forward current (typically 5–20mA)
+- $$V_{USB}$$ = Supply voltage from the USB port (5V)
 
 Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's law, here’s a reference table for choosing resistors:
 
