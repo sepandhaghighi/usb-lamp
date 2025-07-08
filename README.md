@@ -31,6 +31,11 @@ Whether you're just getting started with electronics or looking to add a small l
 
 *Circuit Schematic*
 
+### Online Simulation
+
+Simulate and test the circuit online using Tinkercad.
+
+<a href="https://www.tinkercad.com/things/7LVbZAX8uDY-diy-usb-lamp?sharecode=LRdeW2m3SUcESYvnxZYglapeLnWtZh5xAOPLxv1dW6g"><img src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white" alt="Tinkercad Logo"></a>
 
 ### Resistor Value Calculation
 
@@ -39,9 +44,9 @@ To calculate the appropriate resistor value:
 $$R = \frac{V_{USB} - V_f}{I_f} = \frac{5 - V_f}{I_f}$$
 
 Where:
+- $$V_{USB}$$ = Supply voltage from the USB port (5V)
 - $$V_f$$ = Forward voltage of the LED (depends on color)
 - $$I_f$$ = Forward current (typically 5–20mA)
-- $$V_{USB}$$ = Supply voltage from the USB port (5V)
 
 Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's law, here’s a reference table for choosing resistors:
 
