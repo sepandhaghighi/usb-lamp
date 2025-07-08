@@ -31,12 +31,6 @@ Whether you're just getting started with electronics or looking to add a small l
 
 *Circuit Schematic*
 
-### Online Simulation
-
-Simulate and test the circuit online using Tinkercad.
-
-<a href="https://www.tinkercad.com/things/7LVbZAX8uDY-diy-usb-lamp?sharecode=LRdeW2m3SUcESYvnxZYglapeLnWtZh5xAOPLxv1dW6g"><img src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white" alt="Tinkercad Logo"></a>
-
 ### Resistor Value Calculation
 
 To calculate the appropriate resistor value:
@@ -61,6 +55,11 @@ Different LED colors have different forward voltage drops ($$V_f$$). Using Ohm's
 
 > ℹ️ Use the **next higher standard resistor** if the calculated value is not available (e.g., use 200Ω instead of 197Ω).
 
+### Online Simulation
+
+Simulate and test the circuit online using Tinkercad.
+
+<a href="https://www.tinkercad.com/things/7LVbZAX8uDY-diy-usb-lamp?sharecode=LRdeW2m3SUcESYvnxZYglapeLnWtZh5xAOPLxv1dW6g"><img src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white" alt="Tinkercad Logo"></a>
 
 ### ⚠️ USB Current Limits
 
